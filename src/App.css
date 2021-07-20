@@ -1,0 +1,30 @@
+
+.leaflet-container {
+  width: 210vh; 
+  height: 90vh;
+}
+
+h4{
+  color: rgb(255, 255, 255);
+margin: 0 auto;
+text-align: center;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color:	rgb(2, 82, 255);
+  color: white;
+  text-align: center;
+}
+.imgofcard{
+  width: 100px;
+}
+.vl {
+  border-left: 6px solid green;
+  height: 500px;
+}
+.boxcard{
+  padding-top: 100px;
+}
